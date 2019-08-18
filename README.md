@@ -33,3 +33,7 @@
 # MODx
 
 - [Сводная табличка синтаксиса тегов](modx/tag-table.md)
+
+# Разное
+
+- [Ссылки на месенджеры](other/messengers-links.md)
