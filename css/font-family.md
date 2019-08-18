@@ -1,0 +1,21 @@
+# font-family
+
+- "Roboto", sans-serif;
+- Arial, Helvetica, sans-serif;
+- "Arial Black", Gadget, sans-serif;
+- "Comic Sans MS", cursive;
+- "Courier New", Courier, monospace;
+- Georgia, serif;
+- Impact, Charcoal, sans-serif;
+- "Lucida Console", Monaco, monospace;
+- "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+- "Palatino Linotype", "Book Antiqua", Palatino, serif;
+- Tahoma, Geneva, sans-serif;
+- "Times New Roman", Times, serif;
+- "Trebuchet MS", Helvetica, sans-serif;
+- Verdana, Geneva, sans-serif;
+- Symbol;
+- Webdings;
+- Wingdings, "Zapf Dingbats";
+- "MS Sans Serif", Geneva, sans-serif;
+- "MS Serif", "New York", serif;
