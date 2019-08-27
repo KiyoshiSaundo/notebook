@@ -1,5 +1,7 @@
 # Bitrix
 
+- [Распаковать архив](/bitrix/backup.md)
+
 ### Справка
 
 - [Переменные в компонентах](bitrix/help/variables.md)
@@ -12,7 +14,7 @@
 
 ### Баги
 
-- [Баг в orderView](bitrix/bug/order-view-block.md)
+- [Баг в orderView](bitrix/bug/order-view-blocks.md)
 
 # CSS
 
